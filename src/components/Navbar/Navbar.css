@@ -1,0 +1,19 @@
+.NavbarItems {
+    background: red;
+    height: 60px;
+    margin:auto;
+    }
+    ul{
+        float:right;
+        margin-top:25px;
+        list-style-type:none;
+    }
+    ul li{
+        display:inline-block;
+    }
+    ul li a{
+        color:#fff;
+        padding: 5px 20px;
+        border: 1px solid transparent;
+        text-decoration:none;
+    }
